@@ -47,10 +47,6 @@ I have also included in the pack the types.xml code snippets to add rubles into 
 	SherpaHat_Blue,			*,		55,		18
 	SherpaHat_Red,			*,		55,		18
 	BudenovkaHat_Gray,			*,		55,		18
-	
-	
-	
-	
 	NBCHoodWhite,			*,		100,	30
 	
 	<Category> Jackets & Coats
